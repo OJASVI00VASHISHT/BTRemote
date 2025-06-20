@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="24dp">
+
+    <Button
+        android:id="@+id/launchConnectBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Connect Bluetooth" />
+
+    <Button
+        android:id="@+id/launchRemoteBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Control Robot"
+        android:layout_marginTop="16dp" />
+
+</LinearLayout>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BluetoothRemote</string>
+    <string name="connect">Connect</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="connected_to">Connected to %s</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="connection_failed">Connection failed: %s</string>
+    <string name="command_failed">Command failed to send</string>
+    <string name="bluetooth_permission_denied">Bluetooth permission denied</string>
+    <string name="no_paired_devices">No paired devices found</string>
+    <string name="permissions_required">Permissions are required for Bluetooth</string>
+</resources>
